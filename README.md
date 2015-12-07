@@ -3,14 +3,14 @@ HelloWorld
 **HelloWorld** is a demonstration project to talk through the process of branching, merging and general collaboration on GitHub.
 
 #### Screenshot
-![Screenshot software](https://github.com/stewstremel/HelloWorld/projectDocs/projectImage.png "screenshot software")
+![Screenshot software](https://github.com/stewstremel/HelloWorld/blob/master/projectDocs/projectImage.png "screenshot software")
 
 ### Download
 * [Version X.Y](https://github.com/stewstremel/HelloWorld/archive/master.zip)
 * Other Versions
 
 ### Usage
-```$ git clone https://github.com/stewstremel/HelloWorld.git
+```$ git clone https://github.com/stewstremel/HelloWorld.git```
 * Init steps:
 * Build steps:
 * Test for success:
@@ -20,11 +20,11 @@ HelloWorld
 
 ## Conventions
 ### How-to use this code
-/projectDocs : supporting documentation, help and requirements for the project
-/source : source code
-/source/app : application 
-/source/library : third party and common libaries
-/source/tests : ci tests and manual steps for test paths
+* /projectDocs : supporting documentation, help and requirements for the project
+* /source : source code
+* /source/app : application 
+* /source/library : third party and common libaries
+* /source/tests : ci tests and manual steps for test paths
 
 ### Technology Stack
 * PHP
