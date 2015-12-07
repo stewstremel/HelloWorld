@@ -3,22 +3,24 @@ HelloWorld
 **HelloWorld** is a demonstration project to talk through the process of branching, merging and general collaboration on GitHub.
 
 #### Screenshot
-![Screenshot software](http://url/screenshot-software.png "screenshot software")
+![Screenshot software](https://github.com/stewstremel/HelloWorld/projectDocs/projectImage.png "screenshot software")
 
 ### Download
 * [Version X.Y](https://github.com/stewstremel/HelloWorld/archive/master.zip)
 * Other Versions
 
 ### Usage
-```$ git clone https://github.com/stewstremel/software-project.git
-...```
+```$ git clone https://github.com/stewstremel/HelloWorld.git
+* Init steps:
+* Build steps:
+* Test for success:
 
 ### Version 
-* Version X.Y
+* Version 0.1
 
 ## Conventions
 ### How-to use this code
-/docs : supporting documentation for the project
+/projectDocs : supporting documentation, help and requirements for the project
 /source : source code
 /source/app : application 
 /source/library : third party and common libaries
