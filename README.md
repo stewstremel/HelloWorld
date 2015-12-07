@@ -6,8 +6,8 @@ HelloWorld
 ![Screenshot software](https://github.com/stewstremel/HelloWorld/blob/master/projectDocs/projectImage.png "screenshot software")
 
 ### Download
-* [Version X.Y](https://github.com/stewstremel/HelloWorld/archive/master.zip)
-* Other Versions
+* [Version 0.1](https://github.com/stewstremel/HelloWorld/archive/master.zip)
+** Other Versions
 
 ### Usage
 ```$ git clone https://github.com/stewstremel/HelloWorld.git```
@@ -50,5 +50,5 @@ HelloWorld
 * other communication/social media
 
 ## License 
-* see [LICENSE](https://github.com/stewstremel/HelloWorld/docs/LICENSE.md) file
+* see [LICENSE](https://github.com/stewstremel/HelloWorld/blob/master/projectDocs/LICENSE.md) file
 
